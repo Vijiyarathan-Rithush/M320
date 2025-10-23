@@ -23,7 +23,7 @@
 ## 📅 **TAG 5 - UML-Implementierung, Listen, Prüfung I Wiederholung**
 
 - ... implementierst auf Papier aus einem UML-Klassendiagramm (Attribute und Operationen ohne Beziehungen) ein C#-Programm.
-- ... implementierst eine Liste in C# und erklärst deren Bedeutung sowie Funktionalität.
+-  
 - **Wiederholung aller Prüfung I Themen**
 
 ## 📅 **TAG 6 - UML-Diagramme, Beziehungstypen**
