@@ -52,9 +52,9 @@ interface IAnimal
 {
     void AnimalSound();
 }
-public class Pig
+public class Pig : IAnimal
 {
-    public void AnimalSound() : IAnimal
+    public void AnimalSound()
     {
         Console.WriteLine("The pig says: wee wee");
     }
