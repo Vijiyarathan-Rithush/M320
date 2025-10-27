@@ -52,16 +52,16 @@ interface IAnimal
 {
     void AnimalSound();
 }
-class Pig
+public class Pig
 {
-    public void AnimalSound()
+    public void AnimalSound() : IAnimal
     {
         Console.WriteLine("The pig says: wee wee");
     }
 }
 class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
         Pig pig = new Pig();
         pig.AnimalSound();
