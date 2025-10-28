@@ -28,7 +28,7 @@
 
 #### Codebeispiel abstrakte Klasse & abstrakte Methode:
 
-```
+```csharp
 abstract class Animal 
 {
   public abstract void AnimalSound();
@@ -47,7 +47,7 @@ abstract class Animal
 
 #### Codebeispiel Interface:
 
-```
+```csharp
 interface IAnimal
 {
     void AnimalSound();
