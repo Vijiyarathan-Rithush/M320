@@ -1,5 +1,5 @@
 ## Polymorphie
-Polymorphie bedeuted "mehrere gestalten". In der Objektorientierung heisst es dass man **DIE GLEICHE METHODE ÜBERSCHREIBT UND MAN ANDERS IMPLEMENTIERT** . Man hat zwei Möglichkeiten: Interfaces oder Vererben.
+Polymorphie bedeutet "mehrere gestalten". In der Objektorientierung heisst es dass man **DIE GLEICHE METHODE ÜBERSCHREIBT UND MAN ANDERS IMPLEMENTIERT** . Man hat zwei Möglichkeiten: Interfaces oder Vererben.
 
 **Vererbung:**
 
